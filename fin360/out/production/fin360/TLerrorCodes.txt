@@ -1,0 +1,22 @@
+000 No Disputes 
+003 Account Number in Dispute 
+004 Account Type in Dispute 
+005 Ownership Indicator in Dispute 
+008 Date Opened/Disbursed in Dispute 
+009 Date of Last Payment in Dispute 
+010 Date Closed in Dispute 
+011 Date Reported and Certified in Dispute 
+012 High Credit/Sanctioned Amount in Dispute 
+013 Current Balance in Dispute 
+014 Amount Overdue in Dispute 
+030 Payment History Start Date in Dispute 
+031 Payment History End Date in Dispute 
+032 Suit Filed / Wilful Default  in Dispute 
+033 Written-off and Settled Status in Dispute 
+034 Value of Collateral in Dispute 
+035 Type of Collateral in Dispute 
+036 Credit Limit in Dispute 
+037 Cash Limit in Dispute 
+038 Rate Of Interest in Dispute 
+039 Repayment Tenure in Dispute 
+040 EMI Amount in Dispute

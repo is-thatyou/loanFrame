@@ -1,0 +1,66 @@
+TL0001 Certain information for this account has been disputed by the consumer. 
+TL1003 Account Number in Dispute 
+TL1004 Account Type in Dispute 
+TL1005 Ownership Indicator in Dispute 
+TL1008 Date Opened/Disbursed in Dispute 
+TL1009 Date of Last Payment in Dispute 
+TL1010 Date Closed in Dispute 
+TL1011 Date Reported and Certified in Dispute 
+TL1012 High Credit/Sanctioned Amount in Dispute 
+TL1013 Current Balance in Dispute 
+TL1014 Amount Overdue in Dispute 
+TL1030 Payment History Start Date in Dispute 
+TL1031 Payment History End Date in Dispute 
+TL1032 Suit Filed / Wilful Default  in Dispute 
+TL1033 Written-off and Settled Status in Dispute 
+TL1034 Value of Collateral in Dispute 
+TL1035 Type of Collateral in Dispute 
+TL1036 Credit Limit in Dispute 
+TL1037 Cash Limit in Dispute 
+TL1038 Rate Of Interest in Dispute 
+TL1039 Repayment Tenure in Dispute 
+TL1040 EMI Amount in Dispute  
+TL1041 Written-off Amount (Total) in Dispute 
+TL1042 Written-off Amount (Principal) in Dispute 
+TL1043 Settlement Amount in Dispute 
+TL1044 Payment Frequency in Dispute 
+TL1045 Actual Payment Amount in Dispute 
+TL1101 Payment History 1 in Dispute 
+TL1102 Payment History 2 in Dispute 
+TL1103 Payment History 3 in Dispute 
+TL1104 Payment History 4 in Dispute 
+TL1105 Payment History 5 in Dispute 
+TL1106 Payment History 6 in Dispute 
+TL1107 Payment History 7 in Dispute 
+TL1108 Payment History 8 in Dispute 
+TL1109 Payment History 9 in Dispute 
+TL1110 Payment History 10 in Dispute 
+TL1111 Payment History 11 in Dispute 
+TL1112 Payment History 12 in Dispute 
+TL1113 Payment History 13 in Dispute 
+TL1114 Payment History 14 in Dispute 
+TL1115 Payment History 15 in Dispute 
+TL1116 Payment History 16 in Dispute 
+TL1117 Payment History 17 in Dispute 
+TL1118 Payment History 18 in Dispute 
+TL1119 Payment History 19 in Dispute 
+TL1120 Payment History 20 in Dispute 
+TL1121 Payment History 21 in Dispute  
+TL1122 Payment History 22 in Dispute 
+TL1123 Payment History 23 in Dispute 
+TL1124 Payment History 24 in Dispute 
+TL1125 Payment History 25 in Dispute 
+TL1126 Payment History 26 in Dispute 
+TL1127 Payment History 27 in Dispute 
+TL1128 Payment History 28 in Dispute 
+TL1129 Payment History 29 in Dispute 
+TL1130 Payment History 30 in Dispute 
+TL1131 Payment History 31 in Dispute 
+TL1132 Payment History 32 in Dispute 
+TL1133 Payment History 33 in Dispute 
+TL1134 Payment History 34 in Dispute 
+TL1135 Payment History 35 in Dispute 
+TL1136 Payment History 36 in Dispute 
+TL1886 Duplicate Account 
+TL1888 Account Ownership Error 
+TL1999 Multiple Disputes in Account (TL) Segment 

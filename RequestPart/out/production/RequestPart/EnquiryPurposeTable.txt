@@ -1,0 +1,55 @@
+00        Other
+01        Auto Loan (Personal) 
+02        Housing Loan 
+03        Property Loan 
+04        Loan Against Shares/Securities 
+05        Personal Loan 
+06        Consumer Loan
+07        Gold Loan 
+08        Education Loan 
+09        Loan to Professional 
+10        Credit Card 
+11        Leasing 
+12        Overdraft 
+13        Two-wheeler Loan 
+14        Non-Funded Credit Facility 
+15        Loan Against Bank Deposits 
+16        Fleet Card 
+17        Commercial Vehicle Loan 
+18        Telco – Wireless 
+19        Telco – Broadband 
+20        Telco – Landline 
+31        Secured Credit Card 
+32        Used Car Loan 
+33        Construction Equipment Loan 
+34        Tractor Loan 
+35        Corporate Credit Card 
+36        Kisan Credit Card
+37	  Loan on Credit card
+38	  Prime Minister Jaan Dhan Yojana - Overdraft
+39	  Mudra Loans – Shishu / Kishor / Tarun	  
+40        Microfinance – Business Loan 
+41        Microfinance – Personal Loan 
+42        Microfinance – Housing Loan 
+43        Microfinance – Other
+44	  Pradhan Mantri Awas Yojana - Credit Link Subsidy Scheme MAY CLSS
+50 	  Business Loan - Secured	
+51        Business Loan – General 
+52        Business Loan – Priority Sector – Small Business 
+53        Business Loan – Priority Sector – Agriculture 
+54        Business Loan – Priority Sector – Others 
+55        Business Non-Funded Credit Facility – General 
+56        Business Non-Funded Credit Facility – Priority Sector – Small Business 
+57        Business Non-Funded Credit Facility – Priority Sector – Agriculture 
+58        Business Non-Funded Credit Facility – Priority SectorOthers 
+59        Business Loan Against Bank Deposits 
+60        Business Loan – Director Search 
+80        Microfinance Detailed Report (Applicable to Enquiry Purpose only) 
+81        Summary Report (Applicable to Enquiry Purpose only) 
+88        Locate Plus for Insurance (Applicable to Enquiry Purpose only) 
+90        Account Review (Applicable to Enquiry Purpose only) 
+91        Retro Enquiry (Applicable to Enquiry Purpose only) 
+92        Locate Plus (Applicable to Enquiry Purpose only) 
+97        Adviser Liability (Applicable to Enquiry Purpose only)  
+98        Secured (Account Group for Portfolio Review response) 
+99        Unsecured (Account Group for Portfolio Review response) 
