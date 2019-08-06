@@ -1,0 +1,6 @@
+EM0001   Certain information under Employment information section has been disputed by the consumer. 
+EM1003    Occupation Code in Dispute 
+EM1004    Income in Dispute 
+EM1005     Net/Gross Income Indicator in Dispute 
+EM1006    Monthly/Annual Income Indicator in Dispute 
+EM1999    Multiple Disputes in Employment (EM) Segment 

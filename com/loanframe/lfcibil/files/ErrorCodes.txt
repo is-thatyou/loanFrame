@@ -1,0 +1,11 @@
+000 No Dispute 
+003 Occupation Code in Dispute 
+004 Income in Dispute 
+005 Net/Gross Income Indicator in Dispute 
+006 Monthly/Annual Income Indicator in Dispute 
+203 Occupation Code - Dispute accepted - Pending corrections by the Member 
+204 Income - Dispute accepted - Pending corrections by the Member 
+205 Net/Gross Income Indicator - Dispute accepted - Pending corrections by the Member 
+206 Monthly/Annual Income Indicator - Dispute accepted - Pending corrections by the Member 
+998 Multiple Disputes - Dispute accepted - Pending corrections by the Member 
+999 Multiple Disputes
